@@ -1,20 +1,10 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: enhancement request
-assignees: ''
+name: Cookies
+about: This doesn't have any special functionality, it is just a cookie.
+title: Wdym title?
+labels: Cookies should give you the chance to get 200 - 500 more coins when begging, searching working ext.
+assignees: Lasts for about 20 - 50 minutes depending on how crunchy it is. 
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+I want to suggest this because its sad that cookie does nothing and it can make it actually have a purpose in life (~~unlike me~~)
